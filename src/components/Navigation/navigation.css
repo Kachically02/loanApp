@@ -1,0 +1,29 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsla(180, 38%, 88%, 0.2);
+    border-bottom: 1px solid black;
+    height: 6em;
+}
+ .Link{
+font-style: normal;
+font-size: 2rem;
+font-weight: bold;
+margin-left: 2em;
+color: rgb(13, 236, 13);
+}
+.navigation h2{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(13, 236, 13);
+}
+.navigation button{
+    background-color: rgb(6, 163, 6);
+    color: white;
+    margin-right: 3em;
+    font-size: large;
+    font-weight: bold;
+    padding: 0.5em;
+    border-radius: 10px;
+}

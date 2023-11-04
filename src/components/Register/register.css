@@ -1,0 +1,43 @@
+.Register{
+    background-color:rgb(157, 223, 157);
+    width: 700px;
+    margin: 100px 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.Register h1{
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-left: 1em;
+    padding-top: 1em;
+}
+.Register p{
+    padding-left: 1em;
+    
+}
+.Register form{
+    padding: 2em;
+}
+.form input{
+    width: 100%;
+    border: 1px solid black;
+    padding: 1em;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+.form label{
+    font-weight: bold;
+    font-size: 1rem;
+}
+.Register button{
+    background-color: rgb(9, 167, 9);
+    padding: 1em;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-left: 1em;
+}
+.Register h2{
+    padding-bottom: 3em;
+    padding-left: 2em;
+}

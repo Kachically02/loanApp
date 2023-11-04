@@ -1,0 +1,22 @@
+.sidebar{
+    background-color: black;
+    width: 25%;
+    height: 100vh;
+
+}
+.sidebar-content{
+    color: white;
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 1em;
+    gap: 1em;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.content-section{
+    width: calc(100%-263px);
+    padding: 45px 30px 30px 30px;
+}
+.layout-content{
+    display: flex;
+}
